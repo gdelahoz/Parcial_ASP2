@@ -11,197 +11,197 @@ namespace Parcial_ASP2
 {
 
 
-    public partial class WebForm1
+    public partial class WebForm2
     {
 
         /// <summary>
-        /// Control form1.
+        /// Control form2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form2;
 
         /// <summary>
-        /// Control LabelNombre.
+        /// Control LabelNombreV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelNombre;
+        protected global::System.Web.UI.WebControls.Label LabelNombreV;
 
         /// <summary>
-        /// Control txtNombre.
+        /// Control txtNombreV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNombre;
+        protected global::System.Web.UI.WebControls.TextBox txtNombreV;
 
         /// <summary>
-        /// Control LabelApellido.
+        /// Control LabelApellidoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelApellido;
+        protected global::System.Web.UI.WebControls.Label LabelApellidoV;
 
         /// <summary>
-        /// Control txtApellido.
+        /// Control txtApellidoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtApellido;
+        protected global::System.Web.UI.WebControls.TextBox txtApellidoV;
 
         /// <summary>
-        /// Control LabelCedula.
+        /// Control LabelCedulaV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelCedula;
+        protected global::System.Web.UI.WebControls.Label LabelCedulaV;
 
         /// <summary>
-        /// Control txtCedula.
+        /// Control txtCedulaV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCedula;
+        protected global::System.Web.UI.WebControls.TextBox txtCedulaV;
 
         /// <summary>
-        /// Control LabelDireccion.
+        /// Control LabelDireccionV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelDireccion;
+        protected global::System.Web.UI.WebControls.Label LabelDireccionV;
 
         /// <summary>
-        /// Control txtDireccion.
+        /// Control txtDireccionV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDireccion;
+        protected global::System.Web.UI.WebControls.TextBox txtDireccionV;
 
         /// <summary>
-        /// Control LabelTelefono.
+        /// Control LabelTelefonoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelTelefono;
+        protected global::System.Web.UI.WebControls.Label LabelTelefonoV;
 
         /// <summary>
-        /// Control txtTelefono.
+        /// Control txtTelefonoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtTelefono;
+        protected global::System.Web.UI.WebControls.TextBox txtTelefonoV;
 
         /// <summary>
-        /// Control LabelCelular.
+        /// Control LabelCelularV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelCelular;
+        protected global::System.Web.UI.WebControls.Label LabelCelularV;
 
         /// <summary>
-        /// Control txtCelular.
+        /// Control txtCelularV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCelular;
+        protected global::System.Web.UI.WebControls.TextBox txtCelularV;
 
         /// <summary>
-        /// Control LabelCorreo.
+        /// Control LabelCorreoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelCorreo;
+        protected global::System.Web.UI.WebControls.Label LabelCorreoV;
 
         /// <summary>
-        /// Control txtCorreo.
+        /// Control txtCorreoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCorreo;
+        protected global::System.Web.UI.WebControls.TextBox txtCorreoV;
 
         /// <summary>
-        /// Control LabelEdad.
+        /// Control LabelEdadV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelEdad;
+        protected global::System.Web.UI.WebControls.Label LabelEdadV;
 
         /// <summary>
-        /// Control txtEdad.
+        /// Control txtEdadV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtEdad;
+        protected global::System.Web.UI.WebControls.TextBox txtEdadV;
 
         /// <summary>
-        /// Control LabelSexo.
+        /// Control LabelSexoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelSexo;
+        protected global::System.Web.UI.WebControls.Label LabelSexoV;
 
         /// <summary>
-        /// Control DropDownListSexo.
+        /// Control DropDownListSexoV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownListSexo;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListSexoV;
 
         /// <summary>
-        /// Control LabelFecha.
+        /// Control LabelFechaV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelFecha;
+        protected global::System.Web.UI.WebControls.Label LabelFechaV;
 
         /// <summary>
-        /// Control txtFecha.
+        /// Control txtFechaV.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtFecha;
+        protected global::System.Web.UI.WebControls.TextBox txtFechaV;
 
         /// <summary>
         /// Control Button1.
