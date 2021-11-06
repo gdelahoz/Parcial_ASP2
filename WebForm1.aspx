@@ -6,7 +6,7 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link href="Content/bootstrap.min.css" rel="stylesheet" /> 
-    <title>Covid 19 | Tienda</title>
+    <title>Tienda Covid 19 | Cliente</title>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary mb-4 container-fluid">
@@ -18,8 +18,7 @@
         <div class="navbar-nav">
           <a class="nav-item nav-link active text-light" href="WebForm1.aspx">Registrar cliente</a>
           <a class="nav-item nav-link text-light" href="WebForm2.aspx">Registrar vendedor</a>
-          <a class="nav-item nav-link text-light" href="#">Realizar pedido</a>
-          <a class="nav-item nav-link text-light" href="#">Ver factura</a>
+          <a class="nav-item nav-link text-light" href="WebForm3.aspx">Realizar pedido</a>
         </div>
       </div>
     </nav>
