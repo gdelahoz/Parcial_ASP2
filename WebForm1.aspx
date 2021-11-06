@@ -18,6 +18,8 @@
         <div class="navbar-nav">
           <a class="nav-item nav-link active text-light" href="WebForm1.aspx">Registrar cliente</a>
           <a class="nav-item nav-link text-light" href="#">Registrar vendedor</a>
+          <a class="nav-item nav-link text-light" href="#">Realizar pedido</a>
+          <a class="nav-item nav-link text-light" href="#">Ver factura</a>
         </div>
       </div>
     </nav>
